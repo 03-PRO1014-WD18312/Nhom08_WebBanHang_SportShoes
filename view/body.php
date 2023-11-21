@@ -63,8 +63,8 @@ if (isset($_SESSION['user'])) {
         </svg>
     </button> -->
     <div class="slideshow">
-        <img id="anh" src="./asset/images/banner/banner1.jpg" alt="">
-        <img id="anh" src="./asset/images/banner/banner2.jpg" alt="">
+        <img id="anh" src="./asset/images/banner/banner3.jpg" alt="">
+        <img id="anh" src="./asset/images/banner/banner4.jpg" alt="">
     </div>
     
     <!-- <button class="absolute top-1/2 right-0" onclick="next()">
