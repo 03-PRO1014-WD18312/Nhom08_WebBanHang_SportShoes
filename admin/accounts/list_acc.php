@@ -7,7 +7,7 @@ $condition = false;
 ?>
 
 <p class="p-3 text-[28px] border bg-[#EEE] rounded-md">
-    QUẢN LÝ KHÁCH HÀNG
+    QUẢN LÝ TẤT CẢ TÀI KHOẢN 
 </p>
 <?php if (isset($thong_bao)) echo "<p class='text-red-500'>" . $thong_bao . "</p>" ?>
 <div class="list_cate mt-6 w-full">
