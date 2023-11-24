@@ -17,7 +17,7 @@ if ($url == 'index.php') {
 }
 if (isset($_GET['act']) && !empty($_GET['act'])) {
     if ($_GET['act'] == 'signup') {
-
+        //test
     } else {
     }
 }
